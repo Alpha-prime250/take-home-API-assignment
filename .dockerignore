@@ -1,0 +1,4 @@
+node_modules
+coverage
+task-api/node_modules
+.git
